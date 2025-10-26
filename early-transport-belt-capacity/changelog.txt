@@ -1,0 +1,7 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0 
+Date: 2025-10-26
+  Features:
+    - Added early transport belt capacity to logistics research
+    - Disabled reduntant end game transport belt capacity research nodes
+

@@ -1,0 +1,14 @@
+{
+  "name": "meltea-s-early-transport-belt-capacity",
+  "title": "Meltea's Early Transport Belt Capacity",
+  "homepage": "https://github.com/david-polak/meltea-s-factorio-mods",
+  "author": "Meltea",
+  "version": "0.0.1",
+  "factorio_version": "2.0",
+  "dependencies": 
+  [
+      "base >= 2.0.69",
+      "space-age >= 2.0.69"
+  ]
+}
+

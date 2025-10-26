@@ -2,9 +2,11 @@
   "name": "meltea-s-early-transport-belt-capacity",
   "title": "Meltea's Early Transport Belt Capacity",
   "homepage": "https://github.com/david-polak/meltea-s-factorio-mods",
+  "source": "https://github.com/david-polak/meltea-s-factorio-mods",
   "author": "Meltea",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "factorio_version": "2.0",
+  "description": "Enjoy belt stacking from the start of the game! Adds +1 belt stack size bonus to each of the following technologies: Logistics, Logistics 2, Logistics 3",
   "dependencies": 
   [
       "base >= 2.0.69",

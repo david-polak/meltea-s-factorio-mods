@@ -8,11 +8,12 @@ research progression.
 
 ## Features
 
-Adds +1 belt stack size bonus to each of the following technologies:
+### Belt stacking changes
 
-* Logistics
-* Logistics 2
-* Logistics 3
+* **Red belts** research Logistics 2 enables stacking up to 2 items
+* **Blue belts** research Logistics 3 enables stacking up to 4 items (vanilla max)
+
+### Late game research
 
 Removes belt stack size bonus from late game technologies, to keep parity with
 vanilla.

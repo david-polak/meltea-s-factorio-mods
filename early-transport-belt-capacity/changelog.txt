@@ -1,5 +1,14 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.1.0 
+Version: 2.0.0 
+Date: 2025-10-27
+  Changes:
+    - Changed bonuses after feedback
+    - Yellow belts are now default non stacking
+    - Red belts research now stacks to 2 items
+    - Blue belts research now stacks to 4 items
+
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0 
 Date: 2025-10-26
   Features:
     - Added early transport belt capacity to logistics research
